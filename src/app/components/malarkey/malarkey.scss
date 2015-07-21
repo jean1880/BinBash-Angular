@@ -3,7 +3,7 @@
     color: #FAFAFA;
     &:after {
         animation: cursor-blink 0.4s linear infinite;
-        content: "|";
+        content: "_";
         color: #FAFAFA;
     }
 }
