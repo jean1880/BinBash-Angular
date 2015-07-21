@@ -1,0 +1,30 @@
+.main {
+    pre {
+        border: none;
+    }
+    .card-pad {
+        margin-top: 60px;
+    }
+    .fixed-card {
+        min-height: 543px;
+    }
+    .no-pad {
+        padding-left: 0;
+        padding-right: 0;
+    }
+    .pad {
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+    .pad-top {
+        margin-top: 15px;
+    }
+    .no-border {
+        border: none;
+    }
+    .fixed-bottom-15 {
+        position: absolute;
+        bottom: 15px;
+        right: 15px;
+    }
+}
