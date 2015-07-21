@@ -1,10 +1,35 @@
 .main {
-    .card {
+    .card-pad {
         margin-top: 60px;
+    }
+    .no-pad {
+        padding-left: 0;
+        padding-right: 0;
+    }
+    .pad {
+        padding-left: 15px;
+        padding-right: 15px;
     }
 }
 
 .img-brand {
     margin-top: 5px;
     max-width: 40px !important;
+}
+
+.img-controller {
+    background-size: contain;
+    min-height: 170px;
+}
+
+.btn {
+    border-color: transparent !important;
+}
+
+.btn-fab {
+    padding: 13px !important;
+}
+
+.margin-bottom-15 {
+    margin-bottom: 15px !important;
 }
